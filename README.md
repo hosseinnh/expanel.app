@@ -14,4 +14,4 @@ When a customer exchanges currency, staff can record the customer and transactio
 
 The desktop application keeps office records on the local network. External screening is available through an API.
 
-[Project website](https://expanel.com/) · [Product features and FAQ](https://expanel.app/index.php)
+[Project website](https://expanel.app/) · [Product features and FAQ](https://expanel.app/index.php)
